@@ -1,0 +1,12 @@
+.navbar {
+  width: 100%;
+  height: 60px;
+  background-color: #20e70e; /* color del rectángulo */
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.logo {
+  height: 40px;
+}
